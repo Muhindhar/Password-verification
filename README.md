@@ -38,3 +38,6 @@ This project demonstrates a password authentication system using the Tiva C Seri
 ## 🙌 Contributors
 - Muhindhar (@Muhindhar)
 - Inspired by embedded keypad/UART tutorials
+🧑‍💻 Author
+Muhindhar
+KIOT - Department of ECE
